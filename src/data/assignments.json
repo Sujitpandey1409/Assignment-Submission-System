@@ -1,0 +1,14 @@
+[
+    {
+      "id": 1,
+      "title": "React Basics",
+      "description": "Learn about components, props, and state.",
+      "dueDate": "2025-03-15"
+    },
+    {
+      "id": 2,
+      "title": "State Management",
+      "description": "Understand useState and useContext.",
+      "dueDate": "2025-03-20"
+    }
+  ]
